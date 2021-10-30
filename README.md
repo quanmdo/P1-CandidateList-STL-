@@ -1,2 +1,2 @@
 # P1-CandidateList-STL-
-Sorts candidates using C++ STL.
+Voting system that sorts candidates using C++ STL.
